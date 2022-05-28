@@ -6,4 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-pcan-basic = "^1.0.0"
+pcan-basic = "1.0.0"
+clap = "3.1.18"
